@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class IgvProducto
 
 {
-
-    public static void main( String[] args )
+ublic static void main( String[] args 
 
     {
 
@@ -27,7 +26,7 @@ public class IgvProducto
 
         System.out.println("IGV: "+igv+"\nPrecio de venta: "+pv );
 
-        
+        ///nuevos bios cam/
  
     }
 
