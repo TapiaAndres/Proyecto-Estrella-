@@ -19,13 +19,11 @@ public class IgvProducto
 
         vv=valor.nextFloat();
 
-        
-
-        igv=vv*0.19f;
+        n      igv=vv*0.19f;
 
         pv = vv+igv;
 
-        
+        / nuevos cambios /
 
         System.out.println("IGV: "+igv+"\nPrecio de venta: "+pv );
 
